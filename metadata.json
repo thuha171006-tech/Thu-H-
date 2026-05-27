@@ -1,0 +1,6 @@
+{
+  "name": "Đặt Lịch Workshop Gốm & Hoa",
+  "description": "Hệ thống đặt lịch làm workshop cắm hoa nghệ thuật tone hồng trắng và làm gốm thủ công tone nâu trắng thanh lịch, sang trọng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
