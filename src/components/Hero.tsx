@@ -127,7 +127,7 @@ export default function Hero({ onScrollToBooking, onViewMyBookings, bookingCount
             {/* Main Luxury Frame */}
             <div className="relative rounded-2xl overflow-hidden shadow-2xl shadow-[#8D624E]/10 border-4 border-white aspect-[16/10] w-full" id="hero-image-frame">
               <img
-                src="/src/assets/images/atelier_hero_1779894057516.png"
+                src="/public/anh-bia.jpg"
                 alt="Atelier Terre & Fleur Hero Poster"
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
