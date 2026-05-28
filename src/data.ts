@@ -24,7 +24,7 @@ export const WORKSHOPS: Workshop[] = [
       'Nhận tác phẩm hoàn thiện sau 14 ngày (bọc hộp quà)',
       'Thưởng trà thảo mộc cùng bánh ngọt hữu cơ'
     ],
-    image: '/public/anh-gom.jpg',
+    image: '/anh-gom.jpg',
     highlights: [
       'Học kỹ thuật xoay trục đứng truyền thống',
       'Tạo hình bình cổ điển hoặc chén đĩa uốn sóng',
@@ -49,7 +49,7 @@ export const WORKSHOPS: Workshop[] = [
       'Khu vực chụp ảnh nghệ thuật chuyên nghiệp với ánh sáng tự nhiên',
       'Nước ép hoa quả & Macaron phong cách Pháp'
     ],
-    image: '/public/anh-hoa.jpg',
+    image: '/anh-hoa.jpg',
     highlights: [
       'Am hiểu bánh xe màu sắc và phân bổ mảng khối',
       'Thực hành cắm phom bay bổng nghệ thuật',
